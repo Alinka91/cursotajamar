@@ -1,2 +1,3 @@
-# cursotajamar
-ejerciciosdiseñopáginaweb
+# CursoTajamar
+Ejercicios diseño páginas-web
+2018
