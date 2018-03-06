@@ -24,7 +24,7 @@ article.p2+p::first-line{
            content:"!!!!!!!!!!!!!",
            color:salmon;
     section 
-    section p:: before{
+    section p::before {
         counter-increment:section;
         content: counter(section) url(../image/favico.png);
     }
